@@ -1,9 +1,9 @@
-# pandas_vs_pyspark
+# pandas DF vs pyspark DF
 
 keep updating ....
 
 |  | Pandas | Spark |
-| :---: | :---: | :---: |
+| :---: | :---: | :---: |DF
 | How it works | Single Machine | Distributed computing framework |
 | Transformation mechanism | not lazy evaluation | lazy evaluation |
 | cache | | df.cache(), df.persist() |
